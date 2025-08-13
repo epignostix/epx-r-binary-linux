@@ -26,3 +26,6 @@ This repo is derived from: https://github.com/selkamand/r-portable-mac which inc
 
 #### Maintainer ####
 Heidelberg Epignostix GmbH
+
+#### Author ####
+Asif Ahmed <asif.ahmed@epignostix.com>
