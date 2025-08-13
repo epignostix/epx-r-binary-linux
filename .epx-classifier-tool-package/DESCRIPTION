@@ -1,0 +1,13 @@
+Package: epxClassifierTool
+Type: Package
+Title: EPX Classifier Tool R Package
+Version: 0.9.0
+Date: 2025-08-13
+Description: EPX Classifier Tool R package.
+Maintainer: EPX Team <maintainer@epignostix.com>
+License: GPL (>= 2)
+URL: https://github.com/epignostix/epx-r-binary-linux
+BugReports: https://github.com/epignostix/epx-r-binary-linux/issues
+Depends: R (>= 4.2.3)
+SystemRequirements: Linux
+NeedsCompilation: yes
