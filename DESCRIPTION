@@ -1,0 +1,14 @@
+Package: epx-r-binary-linux
+Type: Not Package
+Title: EPX R environment distribution for the Desktop classifier tool (R).
+RVersion: 4.2.3-1
+RUpdated: 2025-08-13
+DesktopToolVersion: 4.2.3-1
+DesktopToolUpdated: 2025-08-13
+Description: R binary distribution with EPX modifications for Linux systems. This package contains the R statistical computing environment version 4.2.3 with EPX-specific enhancements and the desktop classifier R tool's package, to distribute from a public repository.
+Maintainer: EPX Team <@epignostix.com>
+License: 
+URL: https://github.com/epignostix/epx-r-binary-linux
+BugReports: https://github.com/epignostix/epx-r-binary-linux/issues
+Depends: R (>= 4.2.3)
+SystemRequirements: Linux
