@@ -1,6 +1,6 @@
 Package: epxClassifierTool
 Title: epx Classifier Tool
-Version: 0.9.5
+Version: 0.9.8
 Authors@R: person("Asif", "Ahmed", , "asif.ahmed@epignostix.com", role = c("aut", "cre"))
 Description: A Shiny web application for processing and analyzing IDAT files and generate classification report with epx R classifiers.
 License: Epignostix EULA
